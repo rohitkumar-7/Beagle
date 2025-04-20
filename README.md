@@ -40,7 +40,7 @@ This is a simple HTML project about the **Beagle** dog breed. The design replica
 
 - [Wikipedia: Beagle](https://en.wikipedia.org/wiki/Beagle)
 - [Google Images: Beagle](https://www.google.com/search?q=beagle&tbm=isch)
-- Live Website : ;
+- Live Website : https://beagleprojects.netlify.app/
 
 ---
 
