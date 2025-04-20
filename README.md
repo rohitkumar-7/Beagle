@@ -4,11 +4,6 @@ This is a simple HTML project about the **Beagle** dog breed. The design replica
 
 ---
 
-## 📁 Project Structure
-
-
----
-
 ## 🚀 Features
 
 - **Semantic HTML5 structure**
